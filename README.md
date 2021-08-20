@@ -10,7 +10,7 @@ Counting how many people are in a given location, verifying how many objects pas
 After watching the video, you will undoubtedly come up with thousands of ideas that can be used to real-life situations or perhaps to industry. This is unquestionably the tool to use if you need to construct a tri-section of things.
 
 ## What do we need?
-1 The video of the highway we will use to count the vehicles
-2 Tracker file
-3 Main file
+1. The video of the highway we will use to count the vehicles
+2. Tracker file
+3. Main file
 
